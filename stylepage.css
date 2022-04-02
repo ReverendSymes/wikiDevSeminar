@@ -16,3 +16,11 @@ header {
   padding: 0px;
   color: orange;
 }
+
+h1 {
+  color: white;
+}
+
+body {
+  background-color: beige;
+}
