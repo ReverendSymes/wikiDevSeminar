@@ -4,3 +4,23 @@ andrewtext {
   font-size: 500px;
   color: green;
 }
+
+header {
+  background-color: lightblue;
+  margin: 0;
+}
+
+bigbadbar{
+  padding-top: 3px;
+  background-color: black;
+  text-align: center;
+  margin: 0px;
+  width: 100%;
+}
+
+.topblack {
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+  color: orange;
+}
